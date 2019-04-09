@@ -1,0 +1,11 @@
+{
+  "name": "dailyui_poc",
+  "description": "dailyui_poc",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
+}
